@@ -2,6 +2,10 @@
 
 MCP Server для расчета карты Human Design по дате, времени и месту рождения. Совместим с n8n и другими системами, поддерживающими Model Context Protocol.
 
+<a href="https://glama.ai/mcp/servers/@dvvolkovv/MCP_Human_design">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@dvvolkovv/MCP_Human_design/badge" alt="Human Design Server MCP server" />
+</a>
+
 ## Описание
 
 Этот сервер предоставляет инструменты для расчета Human Design карты, включая:
@@ -405,4 +409,3 @@ sudo apt-get install build-essential python3
 Установите [Visual Studio Build Tools](https://visualstudio.microsoft.com/downloads/)
 
 См. [SWISS_EPHEMERIS.md](SWISS_EPHEMERIS.md) для детальной информации о установке.
-
